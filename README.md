@@ -130,8 +130,7 @@ Exiting... 🚀
 ---
 
 ## 🚀 **Contributors**
-- [Your Name]  
-- [Team Members (if applicable)]  
+- Aman Pawade
 
 ---
 
